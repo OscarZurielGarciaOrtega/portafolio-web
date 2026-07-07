@@ -1,7 +1,6 @@
 #  Portafolio Web Personal - Ingeniería en Sistemas Computacionales
 
-**Autor:** Oscar Zuriel García Ortega  
-**Nick/Alias:** Zuro  
+**Autor:** Oscar Zuriel García Ortega   
 **Asignatura:** Programación Web  
 **Catedrático:** Ing. Adelina Martínez  
 **Institución:** Instituto Tecnológico de Oaxaca (ITO)  
@@ -40,8 +39,8 @@ Este proyecto consiste en un **Portafolio Web Personal Profesional** estático y
 ---
 
 ##  Capturas de Pantalla
-![Vista Principal del Portafolio](img/captura.png)  
-*(Nota: En esta captura se aprecia la estructura y diseño del portafolio en funcionamiento desde el navegador).*
+![Vista Principal del Portafolio](<img width="1857" height="877" alt="Captura de pantalla 2026-07-07 084527" src="https://github.com/user-attachments/assets/3083e35f-35fc-4354-955c-936de613703f" />)  
+
 
 ---
 
