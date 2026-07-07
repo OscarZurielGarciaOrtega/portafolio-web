@@ -39,11 +39,14 @@ Este proyecto consiste en un **Portafolio Web Personal Profesional** estático y
 ---
 
 ##  Capturas de Pantalla
-![Vista Principal del Portafolio](<img width="1857" height="877" alt="Captura de pantalla 2026-07-07 084527" src="https://github.com/user-attachments/assets/3083e35f-35fc-4354-955c-936de613703f" />)  
+<img width="1857" height="877" alt="Captura de pantalla 2026-07-07 084527" src="https://github.com/user-attachments/assets/da77908d-a63c-47c9-993a-18a64ae48659" />
+<img width="1852" height="886" alt="Captura de pantalla 2026-07-07 084549" src="https://github.com/user-attachments/assets/833ed1c8-e79d-4981-9467-cbe388b5b8e4" />
+<img width="1857" height="892" alt="Captura de pantalla 2026-07-07 084603" src="https://github.com/user-attachments/assets/09d236c3-3a49-43c6-a5d1-0d7751afc744" />
+
 
 
 ---
 
 ##  Enlaces Oficiales
-* **Repositorio en GitHub:** [PEGA AQUÍ EL LINK DE TU REPOSITORIO PÚBLICO]  
+* **Repositorio en GitHub:** [https://github.com/OscarZurielGarciaOrtega/portafolio-web]  
 * **Sitio Web en Vivo (GitHub Pages):** [PEGA AQUÍ EL LINK DE TU GITHUB PAGES]
